@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "QuirkCase",
+  "version": "1.0",
+
+  "description": "Lets you WrItE lIkE tHiS eAsIlY. Just hold the ctrl key and click on a text field, and you will be prompted for your text.",
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["QuirkCase.js"]
+    }
+  ]
+}
