@@ -3,7 +3,7 @@ QuirkCase is a browser extension to **wRiTe LiKe ThIs WiTh No PrObLeM**.
 
 It´s currently only available for Firefox, but I will soon port the extension to Chrome, Chromium, Brave, etc. Issues are welcome as well as Pull Requests. Thank you and have fun with this!!!
 
-## Instalation
+## Installation
 
 ### Firefox (gecko)
 
