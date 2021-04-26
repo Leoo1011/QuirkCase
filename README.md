@@ -7,4 +7,4 @@ It´s currently only available for Firefox, but I will soon port the extension t
 
 ### Firefox (gecko)
 
-This is the only supported browser for now. To install it go to [addons.mozilla.org/firefox/addon/quirkcase](addons.mozilla.org/firefox/addon/quirkcase/) (for installation instructions go to [support.mozilla.org](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox)).
+This is the only supported browser for now. To install it go to [addons.mozilla.org...](https://addons.mozilla.org/firefox/addon/quirkcase/) (for installation instructions go to [support.mozilla.org](https://support.mozilla.org/kb/find-and-install-add-ons-add-features-to-firefox)).
